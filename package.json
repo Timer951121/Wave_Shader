@@ -20,7 +20,7 @@
     "lodash-es": "^4.17.11",
     "nuxt": "^2.6.1",
     "right-now": "^1.0.0",
-    "three": "0.110.0",
+    "three": "0.137.0",
     "touches": "^1.2.2"
   },
   "devDependencies": {
