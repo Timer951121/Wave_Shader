@@ -18,7 +18,7 @@
     "glslify-loader": "^2.0.0",
     "gsap": "^2.1.2",
     "lodash-es": "^4.17.11",
-    "nuxt": "^2.6.1",
+    "nuxt": "^2.15.8",
     "right-now": "^1.0.0",
     "three": "0.110.0",
     "touches": "^1.2.2"
